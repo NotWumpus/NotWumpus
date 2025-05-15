@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotWumpus
-- 👀 I’m interested in AI
+- 👀 I’m interested in CyberSec
 - 🌱 I’m currently trying to learn python
 - 💞️ I’m looking to collaborate on nothing yet
 
